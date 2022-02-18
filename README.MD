@@ -1,5 +1,5 @@
 # DUNGEON
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffinalfantasy.fandom.com%2Fpt-br%2Fwiki%2FFinal_Fantasy&psig=AOvVaw08u9ZHbsn5koumdPD6OiPC&ust=1645294322582000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNjW4I7tifYCFQAAAAAdAAAAABAI)
+![image]()
 
 ## Orientação a Objetos
 
